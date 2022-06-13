@@ -10,7 +10,7 @@ Simply run the binary and you'll get the information you need.
 
 
 ## Building from source
-You'll need to have [rust](https://www.rust-lang.org/tools/install) installed, the rest of dependencies are automatically downloaded and compiled by cargo (rust's package manager).
+You'll need to have [rust](https://www.rust-lang.org/tools/install) installed, the rest of the dependencies are automatically downloaded and compiled by cargo (rust's package manager).
 ```
 git clone https://github.com/Kid0h/myip
 cd myip
