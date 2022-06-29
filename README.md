@@ -1,5 +1,5 @@
 # myip
-A tiny Cross-platform utility for extracting your local &amp; external IP address.
+A tiny utility for extracting your local &amp; external IP address.
 
 ## Usage
 Download the latest release of **myip** for your OS from the [releases](https://github.com/Kid0h/myip/releases/latest) page, or build from source ([instructions below](#building-from-source)).
